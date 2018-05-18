@@ -2,6 +2,7 @@
   "data": [
     {
       "name": "Jingnan",
+      "age": "18",
       "designation": "Accountant",
       "salary": "$100,750",
       "joining_date": "2016/07/25",
@@ -10,6 +11,7 @@
     },
     {
       "name": "Lei",
+      "age": "28",
       "designation": "Integration Specialist",
       "salary": "$372,000",
       "joining_date": "2012/12/02",
@@ -18,6 +20,7 @@
     },
     {
       "name": "Nancy",
+      "age": "28",
       "designation": "Junior Technical Author",
       "salary": "$86,000",
       "joining_date": "2009/01/12",
@@ -26,6 +29,7 @@
     },
     {
       "name": "Grace",
+      "age": "28",
       "designation": "Accountant",
       "salary": "$162,700",
       "joining_date": "2008/11/28",
@@ -34,6 +38,7 @@
     },
     {
       "name": "Allen",
+      "age": "28",
       "designation": "Pre-Sales Support",
       "salary": "$106,450",
       "joining_date": "2011/12/12",
@@ -42,6 +47,7 @@
     },
     {
       "name": "lily",
+      "age": "28",
       "designation": "Regional Director",
       "salary": "$183,000",
       "joining_date": "2008/11/13",
@@ -50,6 +56,7 @@
     },
     {
       "name": "Wenqian",
+      "age": "28",
       "designation": "Senior Javascript Developer",
       "salary": "$433,060",
       "joining_date": "2012/03/29",
@@ -58,6 +65,7 @@
     },
     {
       "name": "Haley",
+      "age": "28",
       "designation": "Senior Marketing Designer",
       "salary": "$313,500",
       "joining_date": "2012/12/18",
@@ -66,6 +74,7 @@
     },
     {
       "name": "Colleen",
+      "age": "28",
       "designation": "Javascript Developer",
       "salary": "$205,500",
       "joining_date": "2009/09/15",
@@ -73,7 +82,8 @@
       "extension": "2360"
     },
     {
-      "name": "Dai Rios",
+      "name": "Juan xu",
+      "age": "28",
       "designation": "Personnel Lead",
       "salary": "$217,500",
       "joining_date": "2012/09/26",
@@ -82,6 +92,7 @@
     },
     {
       "name": "Lawler",
+      "age": "28",
       "designation": "Sales Assistant",
       "salary": "$137,500",
       "joining_date": "2012/08/06",
@@ -90,6 +101,7 @@
     },
     {
       "name": "Wen",
+      "age": "28",
       "designation": "Integration Specialist",
       "salary": "$327,900",
       "joining_date": "2010/10/14",
@@ -97,7 +109,8 @@
       "extension": "6200"
     },
     {
-      "name": "Sonya Frost",
+      "name": "Wenjia",
+      "age": "28",
       "designation": "Software Engineer",
       "salary": "$103,600",
       "joining_date": "2008/12/13",
@@ -106,6 +119,7 @@
     },
     {
       "name": "Jena",
+      "age": "28",
       "designation": "Office Manager",
       "salary": "$90,560",
       "joining_date": "2008/12/19",
@@ -113,7 +127,8 @@
       "extension": "3814"
     },
     {
-      "name": "Quinn Flynn",
+      "name": "Qin",
+      "age": "28",
       "designation": "Support Lead",
       "salary": "$342,000",
       "joining_date": "2013/03/03",

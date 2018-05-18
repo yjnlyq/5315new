@@ -77,7 +77,7 @@
       <designation>Personnel Lead</designation>
       <salary>$217,500</salary>
       <joining_date>2012/09/26</joining_date>
-      <office>Edinburgh</office>
+      <office>Changsha</office>
       <extension>2290</extension>
     </data>
     <data>
@@ -85,7 +85,7 @@
       <designation>Sales Assistant</designation>
       <salary>$137,500</salary>
       <joining_date>2012/08/06</joining_date>
-      <office>San Francisco</office>
+      <office>Nanyang</office>
       <extension>9608</extension>
     </data>
     <data>
@@ -101,7 +101,7 @@
       <designation>Software Engineer</designation>
       <salary>$103,600</salary>
       <joining_date>2008/12/13</joining_date>
-      <office>Edinburgh</office>
+      <office>Beijing</office>
       <extension>1667</extension>
     </data>
     <data>
@@ -109,7 +109,7 @@
       <designation>Office Manager</designation>
       <salary>$90,560</salary>
       <joining_date>2008/12/19</joining_date>
-      <office>London</office>
+      <office>Shanghai</office>
       <extension>3814</extension>
     </data>
     <data>
@@ -117,7 +117,7 @@
       <designation>Support Lead</designation>
       <salary>$342,000</salary>
       <joining_date>2013/03/03</joining_date>
-      <office>Edinburgh</office>
+      <office>Wuhan</office>
       <extension>9497</extension>
     </data>
   </employees>
